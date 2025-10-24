@@ -1,4 +1,4 @@
-### Ola! Eu o Dev ZyncCode 👋
+### Ola! Eu sou o Dev ZyncCode 👋
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](www.youtube.com/@ZyncCode)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](www.youtube.com/zynccode)
