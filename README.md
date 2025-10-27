@@ -1,7 +1,7 @@
 ### Ola! Eu sou o Dev ZyncCode 👋
 Precisa colocar seu negocio no ar?
 Irei fazer um site para o seu negocio.
-Pra mais informacao acesse [Aqui](www.youtube.com)
+Pra mais informacao acesse [Aqui](https://www.youtube.com)
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](www.youtube.com/@ZyncCode)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](www.youtube.com/zynccode)
