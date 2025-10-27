@@ -1,4 +1,5 @@
 ### Ola! Eu sou o Dev ZyncCode 👋
+Criador de sites e midias para seus projetos.
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](www.youtube.com/@ZyncCode)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](www.youtube.com/zynccode)
@@ -16,4 +17,4 @@
 
 </div><br/>
 
-Apaixonado por tecnologia e por mudar a vida das pessoas atraves da programcao.
+Apaixonado por tecnologia e por mudar a vida das pessoas atraves da programacao.
