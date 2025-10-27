@@ -1,4 +1,4 @@
-# Ola! Eu sou o Dev ZyncCode 👋
+# 👨🏻‍💻 Dev ZyncCode
 Precisa colocar seu negocio no ar?<br/>
 Irei fazer um site para si.<br/>
 ### Pra mais informacao acesse [Aqui](https://www.youtube.com)
