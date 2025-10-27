@@ -1,7 +1,7 @@
-### Ola! Eu sou o Dev ZyncCode 👋
+# Ola! Eu sou o Dev ZyncCode 👋
 Precisa colocar seu negocio no ar?<br/>
 Irei fazer um site para o seu negocio.<br/>
-# Pra mais informacao acesse [Aqui](https://www.youtube.com)
+### Pra mais informacao acesse [Aqui](https://www.youtube.com)
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ZyncCode)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.youtube.com/zynccode)
@@ -9,7 +9,7 @@ Irei fazer um site para o seu negocio.<br/>
 
 ![ZyncCode GitHub stats](https://github-readme-stats.vercel.app/api?username=zynccode&show_icons=true&theme=dracula)
 
-### Tecnologias que eu uso no meu dia
+## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -19,4 +19,4 @@ Irei fazer um site para o seu negocio.<br/>
 
 </div><br/>
 
-Apaixonado por tecnologia e por mudar a vida das pessoas atraves da programacao.
+### Apaixonado por tecnologia e por mudar a vida das pessoas atraves da programacao.
