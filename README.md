@@ -5,7 +5,7 @@ Pra mais informacao acesse [Aqui](https://www.youtube.com)
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ZyncCode)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.youtube.com/zynccode)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zynccode)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devzynccode)
 
 ![ZyncCode GitHub stats](https://github-readme-stats.vercel.app/api?username=zynccode&show_icons=true&theme=dracula)
 
